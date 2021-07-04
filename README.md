@@ -4,10 +4,10 @@
 To create this VBA script, we can help Steve and his parent to have a view of how these stock perform, and find out a better choice for their investment.
 ## Results
 ### Comparing the Total Daily Volume for all stocks
-![Total_Volume_Comparison_Chart](https://user-images.githubusercontent.com/66225050/124364141-62bd2c00-dbf4-11eb-9b32-32f71197e1d3.png)
+![Total_Volume_Comparison_Chart](https://github.com/rykiprince/stocks-analysis/blob/main/Resources/Total_Volume_Comparison_Chart.png)
 Out of all 12 stocks of this data sample, there are 5 stocks reduced daily trading volume, and 7 of them increased. Indicating how often the stocks get traded, the total volume among **$DQ** and **$HASI** are relatively smaller than other stocks even they are increase, which  And, with a significant higher volume than others, **$ENPH** and **$RUN** have a dramatic increase volume from 2017 to 2018.  
 ### Comparing the Return for all stocks
-![2017   2018 Comparison](https://user-images.githubusercontent.com/66225050/124393459-7bd6e300-dcaf-11eb-9c2d-fe65f31b0a7b.png)
+![2017   2018 Comparison](https://github.com/rykiprince/stocks-analysis/blob/main/Resources/2017%20%26%202018%20Comparison.png)
 
 Overall, most of the stocks return positively in 2017 but negatively in 2018. Only **$ENPH** and **$RUN** keep being positive from 2017 to 2018. The return of **$DQ** was dropping from 199% to (-62.6%).
 ### Conclusion
